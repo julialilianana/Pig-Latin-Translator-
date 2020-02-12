@@ -1,0 +1,53 @@
+body{
+  margin: 2em;
+  font-family: 'Josefin Sans', sans-serif;
+  align-items: center;
+  text-align: center;
+  background-color: #fadadd;
+  font-family: 'Libre Baskerville', serif;
+}
+h1{
+  text-align: center;
+  font-size: 4em;
+  font-family: 'Libre Baskerville', serif;
+}
+button{
+  margin: 1em;
+  border-radius: .25em;
+  font-size: 75%;
+  padding: 1em;
+}
+footer{
+  padding: 2em;
+}
+
+#cutePig{
+  width: 12em;
+  height: 100px;
+  transition: width 2s, height 4s;
+  }
+#cutePig:hover{
+  width: 300px;
+  height: 300px;
+}
+#pigImage{
+  text-align: center;
+}
+#inputPhrase{
+  font-size: 1em;
+  height: 5em;
+  width: 20em;
+  text-align: center;
+}
+
+.box{
+  background-color: #606060;
+  color: #fff;
+  border-radius: .2em;
+  padding: 1em;
+  font-size: 150%;
+}
+.header{
+  background-color: #FFF;
+  padding: 1em;
+}
